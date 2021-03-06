@@ -19,4 +19,8 @@ class DemoApplicationTests {
         System.out.println("输出信息方法");
     }
 
+    @Test
+    public void  test(){
+        System.out.println("测试方法");
+    }
 }
