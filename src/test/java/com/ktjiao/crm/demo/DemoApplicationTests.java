@@ -14,4 +14,8 @@ class DemoApplicationTests {
         System.out.println("输出一条消息。");
     }
 
+    public void out(){
+        System.out.println("输出信息方法");
+    }
+
 }
